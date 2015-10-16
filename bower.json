@@ -1,0 +1,12 @@
+{
+  "name": "crm-p",
+  "version": "0.0.0",
+  "dependencies": {
+    "system.js": "~0.18.17",
+    "lodash": "~3.10.0",
+    "moment": "~2.10.3",
+    "angular-moment": "~0.10.3",
+    "angular-route": "~1.4.7"
+  },
+  "analytics": false
+}
